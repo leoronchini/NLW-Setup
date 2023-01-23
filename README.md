@@ -3,7 +3,7 @@ Next Level Week Setup by Rocketseat project
 
 technologies
 
-NodeJS, Typescript, Fastify, Prisma(ORM), SQLite
+NodeJS, Typescript, Fastify, Zod, DayJS, Prisma(ORM), SQLite
 
 
 command:
